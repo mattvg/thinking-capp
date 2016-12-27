@@ -1,1 +1,1 @@
-export { default as LessonsReducer } from './LessonsReducer';
+export { default as lessons } from './LessonsReducer';

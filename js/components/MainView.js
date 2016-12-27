@@ -1,12 +1,13 @@
 import React, { PropTypes } from 'react';
 import { connect } from 'react-redux'
 
-console.log("1")
+console.log("1.02")
 
 class MainView extends React.Component {
   constructor(props) {
+    console.log("1.5")
     super(props)
-console.log("2")
+    console.log("2")
   }
 
   static propTypes = {
@@ -29,5 +30,4 @@ console.log("2")
   }
 }
 
-export default connect(state => ({ cart: state.cart, site: state.site }))(MainView)
-
+export default connect(state => ({ lessons: state.lessons }))(MainView)

@@ -7,10 +7,11 @@ import configureStore                from '../store';
 import  MainView    from '../components/MainView'
 import  LessonMenu  from '../components/LessonMenu'
 
-console.log("routes")
+console.log("routes2")
 
-console.log(MainView)
-console.log(LessonMenu)
+console.log(Router)
+console.log(Route)
+console.log(IndexRoute)
 
 export default (
 	<Router>

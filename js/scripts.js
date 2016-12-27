@@ -26,12 +26,17 @@ const logger = (store) => (next) => (action) => {
 
 const store = applyMiddleware(logger,promiseMiddleware)(createStore)(reducer, initialState);
 
-//store.dispatch({type: "DO_INIT", payload: { env: process.env.NODE_ENV } })
-
 const app = document.getElementById('app')
 
-render(<Provider store={store}>
+try {
+	render(<Provider store={store}>
 				<Router children={routes} history={history} />
 			</Provider>, app)
+}
+catch (err) {
+	console.log(err)
+}
+
+store.dispatch({type: "DO_INIT", payload: { env: process.env.NODE_ENV } })
 
 console.log("done")
