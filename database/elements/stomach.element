@@ -1,0 +1,14 @@
+{
+	"name": {
+		"en": {
+			"text": "stomach",
+			"audio": "/digestive/stomach-title"
+		}
+	}
+	"desc": {
+		"en": {
+			"text": "This is where you put food."
+			"audio": "/digestive/stomach-desc"
+		}
+	}
+}

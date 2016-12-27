@@ -1,0 +1,33 @@
+{
+	"title": {
+		"en": {
+			"text": "The Digestive System",
+			"audio": ""
+		},
+		"elements": [
+			"stomach"
+		],
+		"nonelements": [
+			"cranium"
+		]
+		"quiz": {
+			"questions": [
+				{
+					"question": {
+						"en": {
+							"text": "What growls when you're hungry?",
+							"audio": ""
+						}
+					},
+					"answers": [
+						{"element": "stomach", "correct": "1"},
+						{"element": "cranium", "correct": "0"}
+					]
+				},
+				{
+
+				}
+			]
+		}
+	}
+}
