@@ -2,13 +2,13 @@
 	"name": {
 		"en": {
 			"text": "stomach",
-			"audio": "/digestive/stomach-title"
+			"audio": "/audio/digestive/stomach-title.mp3"
 		}
 	}
 	"desc": {
 		"en": {
 			"text": "This is where you put food."
-			"audio": "/digestive/stomach-desc"
+			"audio": "/audio/digestive/stomach-desc.mp3"
 		}
 	},
 	"img": {
