@@ -13,3 +13,20 @@ button {
 .add-student{
 	
 }
+.logo-container {
+	padding: 10px;
+}
+.config-icon-container {}
+.back-icon-container {}
+.my-button {
+	background-color: #444;
+	color: #fff;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px;
+}
+.my-input {
+	width: 100%;
+}
+.input-add-student {
+	font-size: 14pt;
+}

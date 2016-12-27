@@ -4,21 +4,21 @@ import { Router, Route, IndexRoute } from 'react-router';
 import createBrowserHistory          from 'history/lib/createBrowserHistory';
 import configureStore                from '../store';
 
-import  MainView    from '../components/MainView'
-import  LessonMenu  from '../components/LessonMenu'
-
-console.log("routes2")
-
-console.log(Router)
-console.log(Route)
-console.log(IndexRoute)
+import  MainView      from '../components/MainView'
+import  Home          from '../components/Home'
+import  LessonMenu    from '../components/LessonMenu'
+import  SelectStudent from '../components/SelectStudent'
 
 export default (
 	<Router>
-		<Route path="/*" component={MainView}>
-			<IndexRoute component={LessonMenu} />
+		<Route path="/" component={MainView}>
+			<IndexRoute component={Home} />
+		</Route>
+		<Route path="/index.htm" component={MainView}>
+			<IndexRoute component={Home} />
+		</Route>
+		<Route path="/students" component={MainView}>
+			<IndexRoute component={SelectStudent} />
 		</Route>
 	</Router>
-);
-
-console.log("done")
+)
