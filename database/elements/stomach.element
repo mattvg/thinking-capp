@@ -10,5 +10,8 @@
 			"text": "This is where you put food."
 			"audio": "/digestive/stomach-desc"
 		}
+	},
+	"img": {
+		"file": "/images/digestive/stomach.jpg"
 	}
 }

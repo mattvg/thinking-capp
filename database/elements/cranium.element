@@ -2,13 +2,16 @@
 	"name": {
 		"en": {
 			"text": "cranium",
-			"audio": "/skeletal/cranium-title"
+			"audio": "/audio/skeletal/cranium-title"
 		}
 	}
 	"desc": {
 		"en": {
 			"text": "The cranium protects your brain."
-			"audio": "/skeletal/cranium-desc"
+			"audio": "/audio/skeletal/cranium-desc"
 		}
+	},
+	"img": {
+		"file": "/images/skeletal/cranium.jpg"
 	}
 }
