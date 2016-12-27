@@ -7,7 +7,9 @@ export default class App extends React.Component {
 
 	render() {
 		return (
-			<div>Test</div>
+			<div>
+				<h1>Thinking Capp</h1>
+			</div>
 		)
 	}
 }
