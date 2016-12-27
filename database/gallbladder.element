@@ -1,17 +1,17 @@
 {
 	"name": {
 		"en": {
-			"text": "cranium",
+			"text": "gallbladder",
 			"audio": "/audio/skeletal/cranium-title"
 		}
 	}
 	"desc": {
 		"en": {
-			"text": "The cranium protects your brain."
+			"text": "A muscular sac in which bile from the liver is stored."
 			"audio": "/audio/skeletal/cranium-desc"
 		}
 	},
 	"img": {
-		"file": "/images/skeletal/cranium.jpg"
+		"file": "/images/digestive/Gallbladder.jpg"
 	}
 }
