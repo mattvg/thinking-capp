@@ -11,7 +11,6 @@ class MainView extends React.Component {
   }
 
   render() {
-  	console.log("index.js render")
     return (
         <div className="thinking-capp">
           <div className="container-fluid">

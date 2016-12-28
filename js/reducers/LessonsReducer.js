@@ -21,6 +21,18 @@ export default function LessonsReducer(state = defaultState, action) {
 			nstate.lessons[name] = lesson
 			console.log(lesson)
 			break
+		case 'LOAD_LESSON_ERROR':
+			var err = action.payload
+			nstate.loaded = {name: "error", "error": err}
+			break
+		case 'LOAD_LESSON_SUCCESS':
+			var lesson = action.payload
+			console.log(action)
+			console.log(action.payload)
+			console.log("lesson")
+			console.log(lesson)
+			nstate.loaded = lesson
+			break
 		case 'LOAD_LESSON':
 			var lesson = action.payload.lesson
 			var src = lesson.src
@@ -30,16 +42,21 @@ export default function LessonsReducer(state = defaultState, action) {
 					load = false
 				}
 			}
+			var dispatch = action.payload.dispatch
+			console.log("dispatch")
+			console.log(dispatch)
 			if (load) {
 				axios
 				  .get(src)
 				  .then(function(result) {
 				  	var raw = result["data"]
 				  	console.log(raw)
+					dispatch({type: "LOAD_LESSON_SUCCESS", payload: raw})
 				})
 				.catch((err) => {
-					store.dispatch({type: "LOAD_LESSION_ERROR", playload: err})
-				})				
+					console.log(err)
+					dispatch({type: "LOAD_LESSON_ERROR", payload: err})
+				})
 			}
 			break
 	}

@@ -6,9 +6,15 @@ import Grade from "./Grade"
 import TestModeButton from "./TestModeButton"
 import LessonStatisticsButton from "./LessonStatisticsButton"
 
-export default class LessonSelectRow extends React.Component {
+class LessonSelectRow extends React.Component {
 	constructor(props) {
 		super(props)
+	}
+
+	onClick(event) {
+		var lesson = this.props.lesson
+		var dispatch = this.props.dispatch
+		dispatch({type: "LOAD_LESSON", payload: {lesson, dispatch} })
 	}
 
 	render() {
@@ -16,7 +22,7 @@ export default class LessonSelectRow extends React.Component {
 		var to = "/lessons/" + lesson.name
 		return (
 			<div className="row lesson-select-row-container">
-				<div className="col-xs-12 col-sm-6 lesson-select-row-button-container">
+				<div className="col-xs-12 col-sm-6 lesson-select-row-button-container" onClick={this.onClick.bind(this)}>
 					<MyButton to={to}>
 						{lesson.name}
 					</MyButton>
@@ -28,3 +34,5 @@ export default class LessonSelectRow extends React.Component {
 		)
 	}
 }
+
+export default connect(state => ({ lessons: state.lessons }))(LessonSelectRow)

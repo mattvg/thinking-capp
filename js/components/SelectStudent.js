@@ -37,7 +37,7 @@ class SelectStudent extends React.Component {
 				</div>
 				{Object.keys(students).map(function(key, index) {
 					var student = students[key]
-					return <SelectStudentRow student={student} />
+					return <SelectStudentRow key={key} student={student} />
 				})}
 			</div>
 		)

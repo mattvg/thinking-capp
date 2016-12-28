@@ -18,7 +18,7 @@ export default class SelectStudentRow extends React.Component {
 		var student = this.props.student
 		return (
 			<div className="select-student-row-container">
-				<MyButton key={student.name} className="my-button select-student-row" to="/lessons" onClick={this.onClick.bind(this)}>
+				<MyButton className="my-button select-student-row" to="/lessons" onClick={this.onClick.bind(this)}>
 					{student.name}
 				</MyButton>
 			</div>

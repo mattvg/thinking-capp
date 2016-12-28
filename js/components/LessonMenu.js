@@ -1,7 +1,7 @@
 import React from 'react'
 import { connect } from 'react-redux'
 
-import NavLink from './NavLink'
+import Loading from './Loading'
 
 class LessonMenu extends React.Component {
 	constructor(props) {
@@ -9,18 +9,28 @@ class LessonMenu extends React.Component {
 	}
 
 	render() {
-		var pathname = this.props.location.pathname
-		var prefix = '/lessons/'
-		var i = pathname.indexOf(prefix)
-		i += '/lessons/'.length
-		var name = pathname.substring(i, pathname.length)
 		var olessons = this.props.lessons.toJS()
-		var lesson = olessons.lessons[name]
-		console.log(lesson)
-		this.props.dispatch({type: "LOAD_LESSON", payload: {lesson} })
+		var loaded = olessons.loaded
+		console.log("loaded")
+		console.log(loaded)
+		if (loaded == undefined) {
+			return <Loading />
+		}
+		if (loaded.name == "error") {
+			return (
+				<div>
+					{loaded.error}
+				</div>
+			)
+		}
 		return (
-			<div>
-				{pathname}
+			<div className="main">
+				<div className="back-icon-container"><img src="/public/images/back.png" /></div>
+				<div className="row">
+					<div>Study Mode</div>
+					<div>Sorting Mode</div>
+					<div>Quiz Mode</div>
+				</div>
 			</div>
 		)
 	}
