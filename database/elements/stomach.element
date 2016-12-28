@@ -1,17 +1,17 @@
 {
 	"name": {
 		"en": {
-			"text": "esophagus",
+			"text": "stomach",
 			"audio": "/audio/digestive/stomach-title.mp3"
 		}
-	}
+	},
 	"desc": {
 		"en": {
-			"text": "A muscular tube that leads from the cavity behind the mouth to the stomach."
+			"text": "A stomach.",
 			"audio": "/audio/digestive/stomach-desc.mp3"
 		}
 	},
 	"img": {
-		"file": "/images/digestive/esophagus.png"
+		"file": "/images/digestive/stomach.png"
 	}
 }
