@@ -1,0 +1,16 @@
+{
+	"name": {
+		"en": {
+			"text": "oral cavity",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The oral cavity includes the lips, the inside lining of the lips and cheeks (buccal mucosa), the teeth, the gums, the front two-thirds of the tongue, the floor of the mouth below the tongue, and the bony roof of the mouth (hard palate)."
+		}
+	},
+	"img": {
+		"file": "/images/digestive/Oral%20Cavity.png"
+	}
+}
