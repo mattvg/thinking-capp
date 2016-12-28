@@ -12,14 +12,12 @@ export default function LessonsReducer(state = defaultState, action) {
 	var nstate = state.toJS()
 	switch(action.type) {
 		case 'DO_INIT':
-			console.log("Initializing")
 			break
 		case 'ADD_LESSON':
 			var lesson = action.payload
 			var name = lesson.name
 			var src = lesson.src
 			nstate.lessons[name] = lesson
-			console.log(lesson)
 			break
 		case 'LOAD_LESSON_ERROR':
 			var err = action.payload
@@ -27,10 +25,6 @@ export default function LessonsReducer(state = defaultState, action) {
 			break
 		case 'LOAD_LESSON_SUCCESS':
 			var lesson = action.payload
-			console.log(action)
-			console.log(action.payload)
-			console.log("lesson")
-			console.log(lesson)
 			nstate.loaded = lesson
 			break
 		case 'LOAD_LESSON':
@@ -43,14 +37,11 @@ export default function LessonsReducer(state = defaultState, action) {
 				}
 			}
 			var dispatch = action.payload.dispatch
-			console.log("dispatch")
-			console.log(dispatch)
 			if (load) {
 				axios
 				  .get(src)
 				  .then(function(result) {
 				  	var raw = result["data"]
-				  	console.log(raw)
 					dispatch({type: "LOAD_LESSON_SUCCESS", payload: raw})
 				})
 				.catch((err) => {

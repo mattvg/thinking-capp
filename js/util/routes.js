@@ -8,6 +8,7 @@ import  MainView      from '../components/MainView'
 import  Home          from '../components/Home'
 import  LessonMenu    from '../components/LessonMenu'
 import  LessonSelectMenu    from '../components/LessonSelectMenu'
+import  Quiz          from '../components/Quiz'
 import  SelectStudent from '../components/SelectStudent'
 
 export default (
@@ -23,6 +24,9 @@ export default (
 		</Route>
 		<Route path="/lessons" component={MainView}>
 			<IndexRoute component={LessonSelectMenu} />
+		</Route>
+		<Route path="/quiz" component={MainView}>
+			<IndexRoute component={Quiz} />
 		</Route>
 		<Route path="/lessons/*" component={MainView}>
 			<IndexRoute component={LessonMenu} />

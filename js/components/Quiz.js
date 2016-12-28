@@ -4,7 +4,7 @@ import { connect } from 'react-redux'
 import Loading from './Loading'
 import MyButton from './MyButton'
 
-class LessonMenu extends React.Component {
+class Quiz extends React.Component {
 	constructor(props) {
 		super(props)
 	}
@@ -12,6 +12,7 @@ class LessonMenu extends React.Component {
 	render() {
 		var olessons = this.props.lessons.toJS()
 		var loaded = olessons.loaded
+		console.log(loaded)
 		if (loaded == undefined) {
 			return <Loading />
 		}
@@ -24,15 +25,10 @@ class LessonMenu extends React.Component {
 		}
 		return (
 			<div className="main">
-				<div className="back-icon-container"><img src="/public/images/back.png" /></div>
-				<div className="row">
-					<div>Study Mode</div>
-					<div>Sorting Mode</div>
-					<div><MyButton to="/quiz">Quiz Mode</MyButton></div>
-				</div>
+				Quiz
 			</div>
 		)
 	}
 }
 
-export default connect(state => ({ lessons: state.lessons }))(LessonMenu)
+export default connect(state => ({ lessons: state.lessons }))(Quiz)
