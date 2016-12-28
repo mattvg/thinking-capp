@@ -24,6 +24,18 @@
 					{"element": "stomach", "correct": "1"},
 					{"element": "cranium", "correct": "0"}
 				]
+			},
+			{
+				"question": {
+					"en": {
+						"text": "Which is not part of the digestive system?",
+						"audio": ""
+					}
+				},
+				"answers": [
+					{"element": "stomach", "correct": "0"},
+					{"element": "cranium", "correct": "1"}
+				]
 			}
 		]
 	}
