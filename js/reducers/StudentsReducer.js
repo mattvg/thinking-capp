@@ -1,8 +1,8 @@
 import Immutable from 'immutable';
 
 const init = {
-	students: [],
-
+	students: {},
+	active_student: ""
 }
 
 const defaultState = Immutable.fromJS(init);
@@ -13,8 +13,11 @@ export default function StudentsReducer(state = defaultState, action) {
 		case 'ADD_STUDENT':
 			var name = action.payload.name
 			var student = {name}
-			nstate.students.push(student)
-			console.log(nstate.students)
+			nstate.students[name] = student
+			break
+		case 'SET_ACTIVE_STUDENT':
+			var name = action.payload.name
+			nstate.active_student = name
 			break
 	}
 	return Immutable.fromJS(nstate)

@@ -7,6 +7,7 @@ import configureStore                from '../store';
 import  MainView      from '../components/MainView'
 import  Home          from '../components/Home'
 import  LessonMenu    from '../components/LessonMenu'
+import  LessonSelectMenu    from '../components/LessonSelectMenu'
 import  SelectStudent from '../components/SelectStudent'
 
 export default (
@@ -19,6 +20,12 @@ export default (
 		</Route>
 		<Route path="/students" component={MainView}>
 			<IndexRoute component={SelectStudent} />
+		</Route>
+		<Route path="/lessons" component={MainView}>
+			<IndexRoute component={LessonSelectMenu} />
+		</Route>
+		<Route path="/lessons/*" component={MainView}>
+			<IndexRoute component={LessonMenu} />
 		</Route>
 	</Router>
 )

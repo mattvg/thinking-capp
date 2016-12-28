@@ -1,6 +1,8 @@
 import React from 'react'
 import { connect } from 'react-redux'
 
+import SelectStudentRow from "./SelectStudentRow"
+
 class SelectStudent extends React.Component {
 	constructor(props) {
 		super(props)
@@ -16,10 +18,14 @@ class SelectStudent extends React.Component {
 	}
 
 	onClick(event) {
-		this.props.dispatch({type: "ADD_STUDENT", payload: {this.state.name} })
+		var name = this.state.name
+		this.props.dispatch({type: "ADD_STUDENT", payload: {name} })
 	}
 
 	render() {
+		var ostudents = this.props.students.toJS()
+		var students = ostudents.students
+		console.log(students)
 		return (
 			<div className="main">
 				<div className="back-icon-container"><img src="/public/images/back.png" /></div>
@@ -29,6 +35,10 @@ class SelectStudent extends React.Component {
 					</div>
 					<div className="col-sm-4 my-button" onClick={this.onClick.bind(this)}>Add student</div>
 				</div>
+				{Object.keys(students).map(function(key, index) {
+					var student = students[key]
+					return <SelectStudentRow student={student} />
+				})}
 			</div>
 		)
 	}

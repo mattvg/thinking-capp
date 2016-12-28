@@ -30,3 +30,44 @@ button {
 .input-add-student {
 	font-size: 14pt;
 }
+.select-student-row {
+	padding: 10px;
+	min-width: 300px;
+}
+
+.select-student-row-container {
+	margin: 20px;
+}
+
+.lesson-select-row-container {
+	background-color: #ff0;
+	max-width: 800px;
+	margin: auto;
+}
+.lesson-select-row-button-container {
+}
+.lesson-select-row-grade-container {
+}
+.lesson-select-row-testmodebutton-container {
+	border-color: #000;
+	border-width: 1px;
+	border-style: solid;
+	background-color: #fff;
+	margin: 2px;
+}
+.lesson-select-row-lessonstatisticsbutton-container {
+	border-color: #000;
+	border-width: 1px;
+	border-style: solid;
+	background-color: #fff;
+	margin: 2px;
+}
+.grade {
+	padding: 10px 20px 10px 20px;
+	margin: 2px;
+	float: left;
+	background-color: #fff;
+	border-color: #000;
+	border-width: 1px;
+	border-style: solid;
+}
