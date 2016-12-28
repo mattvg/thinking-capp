@@ -1,2 +1,5 @@
-export { default as lessons } from './LessonsReducer';
-export { default as students } from './StudentsReducer';
+export { default as lessons } from './LessonsReducer'
+export { default as students } from './StudentsReducer'
+export { default as activity } from './ActivityReducer'
+export { default as elements } from './ElementReducer'
+export { default as config } from './ConfigReducer'

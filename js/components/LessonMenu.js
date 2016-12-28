@@ -9,6 +9,10 @@ class LessonMenu extends React.Component {
 		super(props)
 	}
 
+	onClick(event) {
+		this.props.dispatch({type: "RESET_QUIZ", payload: {} })
+	}
+
 	render() {
 		var olessons = this.props.lessons.toJS()
 		var loaded = olessons.loaded
@@ -28,7 +32,7 @@ class LessonMenu extends React.Component {
 				<div className="row">
 					<div>Study Mode</div>
 					<div>Sorting Mode</div>
-					<div><MyButton to="/quiz">Quiz Mode</MyButton></div>
+					<div onClick={this.onClick.bind(this)}><MyButton to="/quiz">Quiz Mode</MyButton></div>
 				</div>
 			</div>
 		)
