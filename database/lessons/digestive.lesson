@@ -9,7 +9,7 @@
 		"stomach"
 	],
 	"nonelements": [
-		"cranium"
+		"oral cavity"
 	],
 	"quiz": {
 		"questions": [
@@ -22,7 +22,7 @@
 				},
 				"answers": [
 					{"element": "stomach", "correct": "1"},
-					{"element": "cranium", "correct": "0"}
+					{"element": "oral cavity", "correct": "0"}
 				]
 			},
 			{
@@ -34,7 +34,7 @@
 				},
 				"answers": [
 					{"element": "stomach", "correct": "1"},
-					{"element": "cranium", "correct": "0"}
+					{"element": "oral cavity", "correct": "0"}
 				]
 			},
 			{
@@ -46,7 +46,7 @@
 				},
 				"answers": [
 					{"element": "stomach", "correct": "1"},
-					{"element": "cranium", "correct": "0"}
+					{"element": "oral cavity", "correct": "0"}
 				]
 			},
 			
@@ -59,7 +59,7 @@
 				},
 				"answers": [
 					{"element": "stomach", "correct": "1"},
-					{"element": "cranium", "correct": "0"}
+					{"element": "oral cavity", "correct": "0"}
 				]
 			},
 			{
@@ -71,7 +71,7 @@
 				},
 				"answers": [
 					{"element": "stomach", "correct": "0"},
-					{"element": "cranium", "correct": "1"}
+					{"element": "oral cavity", "correct": "1"}
 				]
 			}
 		]
