@@ -17,8 +17,8 @@ class Quiz extends React.Component {
 		var oactivity = this.props.activity.toJS()
 		var question_num = oactivity.question_num
 		var olessons = this.props.lessons.toJS()
-		var loaded_name = olessons.loaded_name
-		var loaded = olessons.loaded
+		var loaded_name = oactivity.loaded_name
+		var loaded = oactivity.loaded
 		var quiz = loaded.quiz
 		var questions = quiz.questions
 		if (loaded == undefined) {

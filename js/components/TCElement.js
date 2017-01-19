@@ -12,11 +12,13 @@ class TCElement extends React.Component {
 	render() {
 		var oelements = this.props.elements.toJS()
 		var name = this.props.name
+		console.log(name)
+		console.log(oelements.elements)
 		var element = oelements.elements[name]
 		if (element == undefined) {
 			return (
 				<div className="col-xs-12 col-sm-6 element">
-				Element: {this.props.name}
+				Missing element: {this.props.name}
 				</div>
 			)			
 		} else {

@@ -31,7 +31,7 @@ export default function ElementReducer(state = defaultState, action) {
 			if (name != undefined) {
 				var dispatch = action.payload.dispatch
 				var element = nstate.elements[name]
-				var src = "https://raw.githubusercontent.com/kylepolich/thinking-capp/dev/database/elements/" + name + ".element"
+				var src = "https://raw.githubusercontent.com/kylepolich/thinking-capp/master/database/elements/" + name + ".element"
 				if (element == undefined) {
 					axios
 					  .get(src)

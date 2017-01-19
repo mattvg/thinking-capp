@@ -14,8 +14,9 @@ class LessonMenu extends React.Component {
 	}
 
 	render() {
+		var oactivity = this.props.activity.toJS()
 		var olessons = this.props.lessons.toJS()
-		var loaded = olessons.loaded
+		var loaded = oactivity.loaded
 		if (loaded == undefined) {
 			return <Loading />
 		}
@@ -45,4 +46,4 @@ class LessonMenu extends React.Component {
 	}
 }
 
-export default connect(state => ({ lessons: state.lessons }))(LessonMenu)
+export default connect(state => ({ activity: state.activity, lessons: state.lessons }))(LessonMenu)

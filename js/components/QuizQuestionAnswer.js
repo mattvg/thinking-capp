@@ -7,10 +7,13 @@ class QuizQuestionAnswer extends React.Component {
 
 	constructor(props) {
 		super(props)
+	}
+
+	componentWillMount() {
 		var answer = this.props.answer
 		var name = answer.element
 		var dispatch = this.props.dispatch
-		console.log(["Going to laod", name])
+		console.log(["Going to load", name])
 		dispatch({type: "LOAD_ELEMENT", payload: {name, dispatch} })
 	}
 

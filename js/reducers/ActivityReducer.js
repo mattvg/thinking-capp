@@ -3,6 +3,7 @@ import Immutable from 'immutable';
 
 const init = {
 	question_num: 0,
+	study_num: 0,
 	correct: 0,
 	attempts: 0,
 	complete: 0,
