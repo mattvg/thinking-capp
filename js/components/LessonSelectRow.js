@@ -18,6 +18,7 @@ class LessonSelectRow extends React.Component {
 	}
 
 	render() {
+		console.log("lsr")
 		var lesson = this.props.lesson
 		var to = "/lessons/" + lesson.name
 		return (

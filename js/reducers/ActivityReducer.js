@@ -52,6 +52,7 @@ export default function ActivityReducer(state = defaultState, action) {
 			var lesson = action.payload.lesson
 			nstate.loaded = lesson
 			var name = action.payload.name
+			console.log(name)
 			if (name != undefined) {
 				nstate.loaded_name = name				
 			}
