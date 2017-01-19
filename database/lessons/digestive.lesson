@@ -16,12 +16,12 @@
 			{
 				"question": {
 					"en": {
-						"text": "What growls when you're hungry?",
+						"text": "Which organ stores bile?",
 						"audio": ""
 					}
 				},
 				"answers": [
-					{"element": "stomach", "correct": "1"},
+					{"element": "gallbladder", "correct": "1"},
 					{"element": "oral cavity", "correct": "0"}
 				]
 			},
