@@ -1,8 +1,9 @@
 import React from 'react'
+import { connect } from 'react-redux'
 
-import TCElement from './TCElement'
+import StudyElement from './StudyElement'
 
-export default class StudySlide extends React.Component {
+class StudySlide extends React.Component {
 
 	constructor(props) {
 		super(props)
@@ -15,13 +16,20 @@ export default class StudySlide extends React.Component {
 		dispatch({type: "LOAD_ELEMENT", payload: {name, dispatch} })
 	}
 
+	onClick(event) {
+		this.props.dispatch({type: "ADVANCE_STUDY", payload: {} })
+	}
+
 	render() {
 		var element = this.props.element
 		return (
 			<div className="study-slide">
-			<TCElement name={element} />
+			<StudyElement name={element} />
+			<button className="study-slide-next" onClick={this.onClick.bind(this)}>
 				Next
+			</button>
 			</div>
 		)
 	}
 }
+export default connect(state => ({ activity: state.activity, lessons: state.lessons }))(StudySlide)

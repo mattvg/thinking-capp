@@ -16,10 +16,14 @@ const defaultState = Immutable.fromJS(init);
 export default function ActivityReducer(state = defaultState, action) {
 	var nstate = state.toJS()
 	switch(action.type) {
+		case 'ADVANCE_STUDY':
+			nstate.study_num += 1
+			break
 		case 'SET_QUIZ':
 			var quiz = action.payload.quiz
 			nstate.quiz = quiz
-		case 'RESET_QUIZ':
+		case 'RESET_LESSON':
+			nstate.study_num = 0
 			nstate.question_num = 0
 			nstate.correct = 0
 			nstate.attempts = 0

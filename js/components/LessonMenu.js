@@ -10,7 +10,7 @@ class LessonMenu extends React.Component {
 	}
 
 	onClick(event) {
-		this.props.dispatch({type: "RESET_QUIZ", payload: {} })
+		this.props.dispatch({type: "RESET_LESSON", payload: {} })
 	}
 
 	render() {
@@ -31,10 +31,10 @@ class LessonMenu extends React.Component {
 			<div className="main">
 				<div className="back-icon-container"><img src="/public/images/back.png" /></div>
 				<div className="row">
-					<div className="lesson-menu-mode">
+					<div className="lesson-menu-mode" onClick={this.onClick.bind(this)}>
 						<MyButton to="/study">Study Mode</MyButton>
 					</div>
-					<div className="lesson-menu-mode">
+					<div className="lesson-menu-mode" onClick={this.onClick.bind(this)}>
 						<MyButton to="/sorting">Sorting Mode</MyButton>
 					</div>
 					<div className="lesson-menu-mode" onClick={this.onClick.bind(this)}>
