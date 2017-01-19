@@ -10,6 +10,8 @@ import  LessonMenu    from '../components/LessonMenu'
 import  LessonSelectMenu    from '../components/LessonSelectMenu'
 import  Quiz          from '../components/Quiz'
 import  SelectStudent from '../components/SelectStudent'
+import  Sorting       from '../components/Sorting'
+import  Study         from '../components/Study'
 
 export default (
 	<Router>
@@ -27,6 +29,12 @@ export default (
 		</Route>
 		<Route path="/quiz" component={MainView}>
 			<IndexRoute component={Quiz} />
+		</Route>
+		<Route path="/sorting" component={MainView}>
+			<IndexRoute component={Sorting} />
+		</Route>
+		<Route path="/study" component={MainView}>
+			<IndexRoute component={Study} />
 		</Route>
 		<Route path="/lessons/*" component={MainView}>
 			<IndexRoute component={LessonMenu} />

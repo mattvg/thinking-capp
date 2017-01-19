@@ -40,27 +40,35 @@ button {
 }
 
 .lesson-select-row-container {
-	background-color: #ff0;
+	background-color: #eee;
 	max-width: 800px;
 	margin: auto;
+	padding: 5px;
+	border-width: 1px;
+	border-style: solid;
 }
 .lesson-select-row-button-container {
+	padding: 10px;
 }
 .lesson-select-row-grade-container {
+}
+.sm-border {
+	margin: 2px;
 }
 .lesson-select-row-testmodebutton-container {
 	border-color: #000;
 	border-width: 1px;
 	border-style: solid;
 	background-color: #fff;
-	margin: 2px;
+	margin: 0px;
 }
+
 .lesson-select-row-lessonstatisticsbutton-container {
 	border-color: #000;
 	border-width: 1px;
 	border-style: solid;
 	background-color: #fff;
-	margin: 2px;
+	margin: 0px;
 }
 .grade {
 	padding: 10px 20px 10px 20px;
@@ -95,4 +103,7 @@ button {
 }
 .clear {
 	clear: both;
+}
+.lesson-menu-mode {
+	margin: 10px;
 }

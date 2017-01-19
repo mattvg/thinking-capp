@@ -11,6 +11,7 @@ export default class QuizQuestion extends React.Component {
 	render() {
 		var question = this.props.question
 		var answers = question.answers
+		console.log(question)
 		return (
 			<div className="quiz-question">
 				<div className="quiz-question-text">{question.question.en.text}</div>

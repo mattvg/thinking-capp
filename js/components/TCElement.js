@@ -22,12 +22,8 @@ class TCElement extends React.Component {
 		} else {
 			var oconfig = this.props.config.toJS()
 			var language = oconfig.language
-			console.log(element)
-			console.log(element['name'])
 			var name = element['name'][language]['text']
-			console.log(name)
 			var src = "https://raw.githubusercontent.com/kylepolich/thinking-capp/dev/public" + element['img']['file']
-			console.log(src)
 			return (
 				<div className="col-xs-12 col-sm-6 element">
 				<img src={src} />

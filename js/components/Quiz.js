@@ -5,6 +5,7 @@ import BackArrow from './BackArrow'
 import Loading from './Loading'
 import MyButton from './MyButton'
 import QuizQuestion from './QuizQuestion'
+import QuizComplete from './QuizComplete'
 import QuizCountdown from './QuizCountdown'
 
 class Quiz extends React.Component {
@@ -31,6 +32,9 @@ class Quiz extends React.Component {
 			)
 		}
 		var num_questions = questions.length
+		if (question_num >= num_questions) {
+			return <QuizComplete />
+		}
 		var question = questions[question_num]
 		var to = "/lessons/" + loaded_name
 		return (

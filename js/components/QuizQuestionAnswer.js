@@ -17,6 +17,7 @@ class QuizQuestionAnswer extends React.Component {
 	onClick(event) {
 		console.log("clicked answer")
 		var answer = this.props.answer
+		console.log(answer)
 		this.props.dispatch({type: "ANSWER_QUESTION", payload: {answer} })
 	}
 

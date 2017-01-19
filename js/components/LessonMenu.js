@@ -30,9 +30,15 @@ class LessonMenu extends React.Component {
 			<div className="main">
 				<div className="back-icon-container"><img src="/public/images/back.png" /></div>
 				<div className="row">
-					<div>Study Mode</div>
-					<div>Sorting Mode</div>
-					<div onClick={this.onClick.bind(this)}><MyButton to="/quiz">Quiz Mode</MyButton></div>
+					<div className="lesson-menu-mode">
+						<MyButton to="/study">Study Mode</MyButton>
+					</div>
+					<div className="lesson-menu-mode">
+						<MyButton to="/sorting">Sorting Mode</MyButton>
+					</div>
+					<div className="lesson-menu-mode" onClick={this.onClick.bind(this)}>
+						<MyButton to="/quiz">Quiz Mode</MyButton>
+					</div>
 				</div>
 			</div>
 		)
