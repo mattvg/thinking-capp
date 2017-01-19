@@ -4,10 +4,10 @@
 			"text": "gall blader",
 			"audio": "/audio/digestive/gall-blader-title.mp3"
 		}
-	}
+	},
 	"desc": {
 		"en": {
-			"text": "This produced bile."
+			"text": "This produced bile.",
 			"audio": "/audio/digestive/gall-blader-desc.mp3"
 		}
 	},

@@ -25,7 +25,6 @@ class SelectStudent extends React.Component {
 	render() {
 		var ostudents = this.props.students.toJS()
 		var students = ostudents.students
-		console.log(students)
 		return (
 			<div className="main">
 				<div className="back-icon-container"><img src="/public/images/back.png" /></div>

@@ -18,6 +18,7 @@ export default function ElementReducer(state = defaultState, action) {
 			var element = action.payload.element
 			console.log(element)
 			var dispatch = action.payload.dispatch
+			console.log(["Adding", element])
 			nstate.elements[name] = element
 			nstate.queue.push(name)
 			while (nstate.queue.length > 100) {
@@ -32,12 +33,17 @@ export default function ElementReducer(state = defaultState, action) {
 				var dispatch = action.payload.dispatch
 				var element = nstate.elements[name]
 				var src = "https://raw.githubusercontent.com/kylepolich/thinking-capp/master/database/elements/" + name + ".element"
+				console.log(src)
 				if (element == undefined) {
 					axios
 					  .get(src)
 					  .then(function(result) {
-					  	console.log(result)
 					  	var element = result["data"]
+					  	if (typeof(element) == 'string') {
+					  		console.log("Need to convert:")
+					  		console.log(element)
+					  		element = JSON.parse(element)
+					  	}
 					  	console.log(element)
 					  	var pl = {element, name, dispatch}
 						dispatch({type: "ADD_ELEMENT", payload: pl})
