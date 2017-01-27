@@ -1,6 +1,7 @@
 import React from 'react'
 import { connect } from 'react-redux'
 
+import BackArrow from './BackArrow'
 import Loading from './Loading'
 import MyButton from './MyButton'
 
@@ -27,9 +28,10 @@ class LessonMenu extends React.Component {
 				</div>
 			)
 		}
+		var to = "/lessons"
 		return (
 			<div className="main">
-				<div className="back-icon-container"><img src="/public/images/back.png" /></div>
+				<BackArrow to={to} />
 				<div className="row">
 					<div className="lesson-menu-mode" onClick={this.onClick.bind(this)}>
 						<MyButton to="/study">Study Mode</MyButton>
