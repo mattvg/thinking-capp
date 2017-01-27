@@ -49,3 +49,4 @@ class LessonMenu extends React.Component {
 }
 
 export default connect(state => ({ activity: state.activity, lessons: state.lessons }))(LessonMenu)
+
