@@ -8,9 +8,12 @@ export default class TestModeButton extends React.Component {
 	}
 	
 	render() {
+		var to = "/quiz"
 		return (
 			<div className='test-mode-button-container'>
-				<img src="/public/images/test-mode-button.png" />
+				<Link to={to}>
+					<img src="/public/images/test-mode-button.png" />
+				</Link>
 			</div>
 		)
 	}

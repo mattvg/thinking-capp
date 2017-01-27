@@ -40,26 +40,26 @@
 			{
 				"question": {
 					"en": {
-						"text": "What growls when you're hungry 3?",
+						"text": "This organ is located under the rib cage and above the stomach in the left portion of the abdomen.",
 						"audio": ""
 					}
 				},
 				"answers": [
-					{"element": "stomach", "correct": "1"},
-					{"element": "oral cavity", "correct": "0"}
+					{"element": "esophagus", "correct": "0"},
+					{"element": "spleen", "correct": "1"}
 				]
 			},
 			
 			{
 				"question": {
 					"en": {
-						"text": "What growls when you're hungry 4?",
+						"text": "If you stretch this organ out it will be 5ft long.",
 						"audio": ""
 					}
 				},
 				"answers": [
-					{"element": "stomach", "correct": "1"},
-					{"element": "oral cavity", "correct": "0"}
+					{"element": "large intestine", "correct": "1"},
+					{"element": "small intestine", "correct": "0"}
 				]
 			},
 			{
