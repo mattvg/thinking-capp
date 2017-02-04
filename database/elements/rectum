@@ -1,0 +1,18 @@
+
+{
+	"name": {
+		"en": {
+			"text": "rectum",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "the end of the large intestine that links the colon to the anus.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/digestive/Rectum.png"
+	}
+}
