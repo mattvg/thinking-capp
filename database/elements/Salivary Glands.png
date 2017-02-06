@@ -1,0 +1,19 @@
+
+{
+	"name": {
+		"en": {
+			"text": "Salivary Glands",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "TA gland that secretes saliva, especially any of three pairs of glands, the parotid, submaxillary, and sublingual, that discharge secretions into the oral cavity of humans and most other mammals.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/Salivary Glands.png
+"
+	}
+}
