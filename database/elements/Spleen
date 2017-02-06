@@ -1,0 +1,19 @@
+
+{
+	"name": {
+		"en": {
+			"text": "Spleen",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": ".an organ containing many blood vessels that is located near the stomach or intestine of most vertebrates, destroys worn-out red blood cells, filters the blood, and produces some white blood cells",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/digestive/Spleen.png
+"
+	}
+}
