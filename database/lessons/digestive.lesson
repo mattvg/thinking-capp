@@ -45,7 +45,7 @@
 					}
 				},
 				"answers": [
-					{"element": "esophagus.", "correct": "0"},
+					{"element": "Esophagus.", "correct": "0"},
 					{"element": "Spleen", "correct": "1"}
 				]
 			},
