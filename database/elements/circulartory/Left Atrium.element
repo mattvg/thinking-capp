@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Left Atrium",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The left atrium is one of the four chambers of the heart, located on the left posterior side. Its primary roles are to act as a holding chamber for blood returning from the lungs and to act as a pump to transport blood to other areas of the heart.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/circulartory/left atrium.png"
+	}
+}
