@@ -1,0 +1,17 @@
+{
+		"Grey Kidney": {
+			"en": {
+				"text": "Kidney",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "Either of a pair of oval to bean-shaped organs located in the back part of the abdomen near the spine that give off waste products in the form of urine",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/endocrine/GreyKidney.png"
+		}
+	}
