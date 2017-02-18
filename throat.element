@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "throat",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The part of the neck in front of the spinal column; also : the passage through the neck to the stomach and lungs.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/endocrine/GreyThroat.png"
+	}
+}
