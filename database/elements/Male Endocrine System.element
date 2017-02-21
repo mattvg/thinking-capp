@@ -1,0 +1,18 @@
+{
+		"Male Endocrine System": {
+			"en": {
+				"text": "",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "",
+				"audio": ""
+			}
+		},
+		"img": {
+			"file": "/images/endocrine/Male Endocrine System.png"
+		}
+	}
+
