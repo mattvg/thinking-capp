@@ -1,0 +1,17 @@
+{
+	"Inferior Vena Cava": {
+		"en": {
+			"text": "Inferior Vena Cava",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "A large vein that carries deoxygenated blood from the lower and middle body into the right atrium of the heart. It is formed by the joining of the right and the left common iliac veins, usually at the level of the fifth lumbar vertebra.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/circulartory/Inferior vena cava.png"
+	}
+}
