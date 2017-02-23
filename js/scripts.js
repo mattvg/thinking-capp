@@ -57,7 +57,11 @@ catch (err) {
 	console.log(err)
 }
 
-var lesson = { name: "digestive", src: "https://raw.githubusercontent.com/kylepolich/thinking-capp/dev/database/lessons/digestive.lesson"}
-
 store.dispatch({type: "DO_INIT", payload: { env: process.env.NODE_ENV } })
+
+var lesson = { name: "digestive", src: "https://raw.githubusercontent.com/kylepolich/thinking-capp/dev/database/lessons/digestive.lesson"}
 store.dispatch({type: "ADD_LESSON", payload: lesson })
+
+var lesson = { name: "circulartory", src: "https://raw.githubusercontent.com/kylepolich/thinking-capp/dev/database/lessons/circulartory.lesson"}
+store.dispatch({type: "ADD_LESSON", payload: lesson })
+

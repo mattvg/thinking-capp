@@ -3,7 +3,7 @@ import ReactDOM from "react-dom"
 import { Link } from 'react-router'
 import { connect } from 'react-redux'
 
-class TestModeButton extends React.Component {
+class SortingModeButton extends React.Component {
 	constructor(props) {
 		super(props)
 	}
@@ -17,14 +17,14 @@ class TestModeButton extends React.Component {
 
 	render() {
 		var lesson = this.props.lesson
-		var to = "/quiz"
+		var to = "/sorting"
 		return (
 			<div className='test-mode-button-container' onClick={this.onClick.bind(this)}>
 				<Link to={to} onClick={this.onClick.bind(this)}>
-					<img src="/public/images/test-mode-button.png" />
+					<img src="/public/images/sorting-mode-button.png" />
 				</Link>
 			</div>
 		)
 	}
 }
-export default connect(state => ({ lessons: state.lessons }))(TestModeButton)
+export default connect(state => ({ lessons: state.lessons }))(SortingModeButton)
