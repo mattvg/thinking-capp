@@ -1,0 +1,17 @@
+{
+		"Pineal": {
+			"en": {
+				"text": "Pineal",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A pea-sized conical mass of tissue behind the third ventricle of the brain, secreting a hormonelike substance in some mammals.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/endocrine/Pineal.png"
+		}
+	}
