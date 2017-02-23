@@ -1,0 +1,17 @@
+{
+		"Adrenals": {
+			"en": {
+				"text": "Adrenals",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "relating to or denoting a pair of ductless glands situated above the kidneys",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/endocrine/Adrenals.png"
+		}
+	}
