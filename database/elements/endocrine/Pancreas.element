@@ -1,0 +1,17 @@
+{
+		"Pancreas": {
+			"en": {
+				"text": "Pancreas",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A large gland of vertebrates that lies near the stomach and produces digestive enzymes and insulin.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/endocrine/Pancreas.png"
+		}
+	}

@@ -1,0 +1,17 @@
+{
+		"Ovaries": {
+			"en": {
+				"text": "Ovaries",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "One of the usually paired organs in the body of female animals that produces eggs and that in female vertebrates also produces sex hormones.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/endocrine/Ovaries.png"
+		}
+	}

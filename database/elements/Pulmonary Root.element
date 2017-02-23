@@ -1,0 +1,17 @@
+{
+	"Pulmonary Root": {
+		"en": {
+			"text": "Pulmonary Root",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "Relating to the lungs.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/circulartory/Pulmonary Root.png"
+	}
+}

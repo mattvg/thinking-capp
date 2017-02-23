@@ -1,0 +1,17 @@
+{
+		"Pituitary": {
+			"en": {
+				"text": "Pituitary",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The major endocrine gland. A pea-sized body attached to the base of the brain, the pituitary is important in controlling growth and development and the functioning of the other endocrine glands.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/endocrine/Pituitary.png"
+		}
+	}

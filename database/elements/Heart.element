@@ -1,0 +1,17 @@
+{
+	"Heart": {
+		"en": {
+			"text": "Heart",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "A hollow muscular organ of vertebrates that expands and contracts to move blood through the arteries, veins, and capillaries.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/circulartory/Heart2.png"
+	}
+}
