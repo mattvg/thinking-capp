@@ -1,0 +1,17 @@
+{
+	"Aortic Arch": {
+		"en": {
+			"text": "Aortic Arch",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The aortic arch is the portion of the main artery that bends between the ascending and descending aorta.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/circulartory/Aortic Arch.png"
+	}
+}

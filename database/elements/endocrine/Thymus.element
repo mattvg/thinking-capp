@@ -1,0 +1,17 @@
+{
+		"Thymus": {
+			"en": {
+				"text": "Thymus",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A lymphoid organ situated in the neck of vertebrates that produces T cells for the immune system. The human thymus becomes much smaller at the approach of puberty.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/endocrine/Thymus.png"
+		}
+	}

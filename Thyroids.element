@@ -1,0 +1,17 @@
+		"Thyroids": {
+			"en": {
+				"text": "Thyroids",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A large ductless gland in the neck that secretes hormones regulating growth and development through the rate of metabolism.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/endocrine/Thyroids.png"
+		}
+	}
+
