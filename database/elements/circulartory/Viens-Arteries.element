@@ -1,0 +1,18 @@
+
+{
+	"Veins-Arteries": {
+		"en": {
+			"text": "Veins-Arteries",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "Blood vessels include arteries, capillaries, and veins which are responsible for transporting blood throughout the body.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/circulartory/Viens-Arteries.png"
+	}
+}
