@@ -1,0 +1,17 @@
+{
+	"Right Ventricle": {
+		"en": {
+			"text": "Right Ventricle",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The right ventricle is the chamber within the heart that is responsible for pumping oxygen-depleted blood to the lungs",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "circulartory/Right ventricle.png"
+	}
+}
