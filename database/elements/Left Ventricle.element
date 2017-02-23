@@ -1,0 +1,17 @@
+{
+	"Left Ventricle": {
+		"en": {
+			"text": "Left Ventricle",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The left ventricle is one of four chambers of the heart. It is located in the bottom left portion of the heart below the left atrium, separated by the mitral valve.The left ventricle is the thickest of the heart's chambers and is responsible for pumping oxygenated blood to tissues all over the body.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/circulartory/left ventricle.png"
+	}
+}
