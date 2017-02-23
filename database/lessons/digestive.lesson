@@ -21,7 +21,7 @@
 					}
 				},
 				"answers": [
-					{"element": "Gallbladder", "correct": "1"},
+					{"element": "gallbladder", "correct": "1"},
 					{"element": "oral cavity", "correct": "0"}
 				]
 			},
@@ -33,8 +33,8 @@
 					}
 				},
 				"answers": [
-					{"element": "Small Intestines", "correct": "1"},
-					{"element": "Large Intestines", "correct": "0"}
+					{"element": "small intestines", "correct": "1"},
+					{"element": "large intestines", "correct": "0"}
 				]
 			},
 			{
@@ -46,7 +46,7 @@
 				},
 				"answers": [
 					{"element": "esophagus.", "correct": "0"},
-					{"element": "Spleen", "correct": "1"}
+					{"element": "spleen", "correct": "1"}
 				]
 			},
 			
@@ -58,8 +58,8 @@
 					}
 				},
 				"answers": [
-					{"element": "Large Intestines", "correct": "1"},
-					{"element": "Small Intestines", "correct": "0"}
+					{"element": "large intestines", "correct": "1"},
+					{"element": "small intestines", "correct": "0"}
 				]
 			},
 			{
