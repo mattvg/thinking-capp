@@ -1,0 +1,83 @@
+{
+	"title": {
+		"en": {
+			"text": "The Digestive System",
+			"audio": ""
+		}
+	},
+	"elements": [
+		"stomach"
+	],
+	"nonelements": [
+		"oral cavity"
+	],
+	"quiz": {
+		"questions": [
+			{
+				"question": {
+					"en": {
+						"text": "Which organ stores bile?",
+						"audio": ""
+					}
+				},
+				"answers": [
+					{"element": "Gallbladder", "correct": "1"},
+					{"element": "oral cavity", "correct": "0"}
+				]
+			},
+			{
+				"question": {
+					"en": {
+						"text": "Which intestine is longer?",
+						"audio": ""
+					}
+				},
+				"answers": [
+					{"element": "Small Intestines", "correct": "1"},
+					{"element": "Large Intestines", "correct": "0"}
+				]
+			},
+			{
+				"question": {
+					"en": {
+						"text": "This organ pumps oxygen and blood to the brain.",
+						"audio": ""
+					}
+				},
+				"answers": [
+					{"element": "heart", "correct": "1"},
+					{"element": "gallbladder", "correct": "0"}
+				]
+			},
+			
+			{
+				"question": {
+					"en": {
+						"text": "Which ventricles are part of the heart.",
+						"audio": ""
+					}
+				},
+				"answers": [
+					{"element": "Right Ventricle", "correct": "1"},
+					{"element": "Gallbladder", "correct": "0"},
+          {"element": "Left Ventricle", "correct": "1"},
+					{"element": "Stomach", "correct": "0"}
+				]
+			},
+			{
+				"question": {
+					"en": {
+						"text": "Which is not part of the digestive system?",
+						"audio": ""
+					}
+				},
+				"answers": [
+					{"element": "stomach", "correct": "0"},
+					{"element": "oral cavity", "correct": "1"},
+          {"element": "Gallbladder", "correct": "0"},
+          {"element": "Left Ventricle", "correct": "1"}
+				]
+			}
+		]
+	}
+}
