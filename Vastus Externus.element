@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Vastus Externus",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": " The division of the quadriceps muscle that covers the outer anterior aspect of the femur, arises chiefly from the femur, and inserts into the outer border of the patella by a flat tendon which blends with that of the other divisions of the muscle and sends an expansion to the capsule of the knee.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/muscles/vastus externus.png"
+		}
+	}
