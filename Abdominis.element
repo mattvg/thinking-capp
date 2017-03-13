@@ -1,0 +1,17 @@
+{
+		"Abdominis": {
+			"en": {
+				"text": "Abdominis",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A large muscle in the front of the abdomen that assists in regular breathing movements, supports the muscles of the spine while a person lifts something, and keeps the intestines and other abdominal organs in place.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "images/muscles/Abdominis.png"
+		}
+	}
