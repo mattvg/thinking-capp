@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Eyes",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "Each of a pair of globular organs in the head through which people and vertebrate animals see, the visible part typically appearing almond-shaped in animals with eyelids.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/nervous/Eyes.png"
+		}
+	}
