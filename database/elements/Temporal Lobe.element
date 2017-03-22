@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Temporal Lobe",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "Each of the paired lobes of the brain lying beneath the temples, including areas concerned with the understanding of speech.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/nervous/Temporal lobe.png"
+		}
+	}
