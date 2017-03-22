@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Frontal Lobe",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "Each of the paired lobes of the brain lying immediately behind the forehead, including areas concerned with behavior, learning, personality, and voluntary movement.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/images/nervous/Frontal Lobe.png"
+		}
+	}
