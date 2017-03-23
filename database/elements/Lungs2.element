@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Lungs",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "Each of the pair of organs situated within the rib cage, consisting of elastic sacs with branching passages into which air is drawn, so that oxygen can pass into the blood and carbon dioxide be removed. Lungs are characteristic of vertebrates other than fish, though similar structures are present in some other animal groups.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/respiratory/Lungs2.png"
+	}
+}
