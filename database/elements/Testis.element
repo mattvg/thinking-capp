@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Testis",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "An organ that produces spermatozoa (male reproductive cells).",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/reproductive/Testis.png"
+	}
+}
