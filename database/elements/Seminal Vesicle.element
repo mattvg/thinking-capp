@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Seminal Vesicle",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "Each of a pair of glands that open into the vas deferens near its junction with the urethra and secrete many of the components of semen.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/reproductive/Seminal vesicle.png
+	}
+}
