@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Inferior Vena Cava",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A large vein carrying deoxygenated blood into the heart. There are two in humans, the inferior vena cava (carrying blood from the lower body) and the superior vena cava (carrying blood from the head, arms, and upper body).",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/urinary/Inferior_Vena_Cava.png"
+		}
+	}
