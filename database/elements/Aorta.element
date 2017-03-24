@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Aorta",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The main artery of the body, supplying oxygenated blood to the circulatory system. In humans it passes over the heart from the left ventricle and runs down in front of the backbone.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/images/urinary/Aorta.png"
+		}
+	}
