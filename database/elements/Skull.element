@@ -1,0 +1,18 @@
+
+{
+	"name": {
+		"en": {
+			"text": "Skull",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "A framework of bone or cartilage enclosing the brain of a vertebrate; the skeleton of a person's or animal's head.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/skeletal/Skull.png"
+	}
+}
