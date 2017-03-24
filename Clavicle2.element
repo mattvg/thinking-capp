@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Clavicle",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "Either of the pair of bones joining the breastbone to the shoulder blades.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/skeletal/clavicle.png"
+	}
+}
