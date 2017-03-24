@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Cranium",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The skull, especially the part enclosing the brain.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/images/skeletal/crainium.jpg"
+	}
+}
