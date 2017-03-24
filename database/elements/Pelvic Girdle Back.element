@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Pelvic Girdle Back",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The enclosing structure formed by the pelvis, providing attachment for the hind limbs or pelvic fins.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/skeletal/Pelvic Girdle_Back.png"
+	}
+}
