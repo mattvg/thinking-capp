@@ -1,0 +1,17 @@
+{
+	"Circulatory Body": {
+		"en": {
+			"text": "",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/circulartory/Cirulatory Body.png"
+	}
+}
