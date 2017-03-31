@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Bronchus",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "Any of the major air passages of the lungs that diverge from the windpipe.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/respiratory/Main stem bronchus.png"
+	}
+}
