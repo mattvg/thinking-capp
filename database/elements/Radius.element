@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Radius",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The radius or radial bone is one of the two large bones of the forearm, the other being the ulna. It extends from the lateral side of the elbow to the thumb side of the wrist and runs parallel to the ulna, which exceeds it in length and size. It is a long bone, prism-shaped and slightly curved longitudinally.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/skeletal/radius.png"
+		}
+	}

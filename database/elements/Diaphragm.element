@@ -1,0 +1,17 @@
+{
+		"Diaphragm": {
+			"en": {
+				"text": "Diaphragm",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A muscular, membranous or ligamentous wall separating two cavities or limiting a cavity.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/muscles/Diaphram.png"
+		}
+	}

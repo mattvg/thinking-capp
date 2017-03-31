@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Tarsals",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A bone of the tarsus.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/skeletal/tarsals.png"
+		}
+	}

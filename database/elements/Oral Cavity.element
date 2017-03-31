@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Oral Cavity",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The part of the mouth behind the teeth and gums that is bounded above by the hard and soft palates and below by the tongue and the mucous membrane connecting it with the inner part of the mandible.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/respiratory/Oral Cavity.png"
+	}
+}

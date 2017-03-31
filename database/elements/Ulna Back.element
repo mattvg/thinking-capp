@@ -1,0 +1,18 @@
+{
+	"name": {
+		"en": {
+			"text": "Ulna",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The thinner and longer of the two bones in the human forearm, on the side opposite to the thumb.
+the corresponding bone in a quadruped's foreleg or a bird's wing.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/skeletal/Ulna_Back.png"
+	}
+}

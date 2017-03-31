@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Parietal Lobe",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "Either of the paired lobes of the brain at the top of the head, including areas concerned with the reception and correlation of sensory information.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/nervous/Parietal Lobe.png.jpg"
+		}
+	}

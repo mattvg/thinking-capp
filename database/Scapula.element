@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Scapula",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "Either of the large, flat, triangular bones that lie against the ribs in the upper back and provide attachments for the bone and muscles of the upper arm.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/skeletal/scapula.png"
+		}
+	}

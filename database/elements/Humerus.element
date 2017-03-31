@@ -1,5 +1,5 @@
 {
-	"name": {
+  "name": {
 		"en": {
 			"text": "Humerus",
 			"audio": "/audio/digestive/gall-blader-title.mp3"
@@ -12,6 +12,6 @@
 		}
 	},
 	"img": {
-		"file": "/images/skeletal/Humerus_Back.png"
+			"file": "/images/skeletal/humerus.png"
 	}
 }
