@@ -1,7 +1,7 @@
 {
 	"name": {
 		"en": {
-			"text": "gall blader",
+			"text": "Gallblader",
 			"audio": "/audio/digestive/gall-blader-title.mp3"
 		}
 	},
@@ -12,6 +12,6 @@
 		}
 	},
 	"img": {
-		"file": "/images/digestive/gall-blader.jpg"
+		"file": "/images/digestive/Gallbladder.png"
 	}
 }
