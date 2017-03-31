@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Extensors",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A muscle whose contraction extends or straightens a limb or other part of the body.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/muscles/extensors.png"
+		}
+	}

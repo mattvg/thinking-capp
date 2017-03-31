@@ -1,0 +1,18 @@
+
+{
+	"name": {
+		"en": {
+			"text": "Nasal Passage",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "A channel for airflow through the nose. The walls of the nasal passages are coated with respiratory mucous membranes, which contain innumerable tiny hair-like cells that move waves of mucus toward the throat.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/respiratory/Nasal Passage.png"
+	}
+}

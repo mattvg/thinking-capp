@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Fibula",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The outer and usually smaller of the two bones between the knee and the ankle in humans (or the equivalent joints in other terrestrial vertebrates), parallel with the tibia.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/skeletal/fibula.png"
+		}
+	}

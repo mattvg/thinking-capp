@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Penis",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The male genital organ of higher vertebrates, carrying the duct for the transfer of sperm during copulation. In humans and most other mammals, it consists largely of erectile tissue and serves also for the elimination of urine.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/reproductive/Penis.png"
+	}
+}
