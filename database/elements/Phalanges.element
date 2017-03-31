@@ -1,17 +1,17 @@
 {
-		"name": {
-			"en": {
-				"text": "Phalanges",
-				"audio": "/audio/digestive/gall-blader-title.mp3"
-			}
-		},
-		"desc": {
-			"en": {
-				"text": "Any of the long bones of the fingers or toes, numbering 14 for each hand or foot: two for the thumb or big toe, and three each for the other four digits.",
-				"audio": "/audio/digestive/gall-blader-desc.mp3"
-			}
-		},
-		"img": {
-			"file": "/images/phalanges (foot).png"
+	"name": {
+		"en": {
+			"text": "Phalanges",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
 		}
+	},
+	"desc": {
+		"en": {
+			"text": "Phalanges: The bones of the fingers and of the toes. There are generally three phalanges (distal, middle, proximal) for each digit except the thumbs and large toes. The singular of phalanges is phalanx.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+			"file": "/images/phalanges (foot).png"
 	}
+}
