@@ -1,17 +1,17 @@
 {
 	"name": {
 		"en": {
-			"text": "Gallblader",
+			"text": "Metacarpals",
 			"audio": "/audio/digestive/gall-blader-title.mp3"
 		}
 	},
 	"desc": {
 		"en": {
-			"text": "This produced bile.",
+			"text": "Any of the five bones of the hand.",
 			"audio": "/audio/digestive/gall-blader-desc.mp3"
 		}
 	},
 	"img": {
-		"file": "/images/digestive/Gallbladder.png"
+		"file": "/images/skeletal/Metacarpals_Back.png"
 	}
 }

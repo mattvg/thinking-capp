@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Rectus Femoris",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The rectus femoris muscle is one of the four quadriceps muscles of the human body. The others are the vastus medialis, the vastus intermedius (deep to the rectus femoris), and the vastus lateralis. All four parts of the quadriceps muscle attach to the patella (knee cap) via the quadriceps tendon.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/muscles/rectus femoris.png"
+		}
+	}

@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Spinal Cord",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The cylindrical bundle of nerve fibers and associated tissue that is enclosed in the spine and connects nearly all parts of the body to the brain, with which it forms the central nervous system.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/nervous/Spinal cord.png"
+		}
+	}

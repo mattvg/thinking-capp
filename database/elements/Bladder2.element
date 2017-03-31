@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Bladder",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A membranous sac in humans and other animals, in which urine is collected for excretion.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/urinary/Bladder2.png"
+		}
+	}

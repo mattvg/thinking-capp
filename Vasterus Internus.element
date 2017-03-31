@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Vasterus Internus",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The vastus medialis is an extensor muscle located medially in the thigh that extends the knee. The vastus medialis is part of the quadriceps muscle group.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/muscles/Vasterus internus.png"
+		}
+	}

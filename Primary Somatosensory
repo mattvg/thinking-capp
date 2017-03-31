@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Primary Somatosensory",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The Somatosensory Cortex is an area of the brain, located in the parietal lobe, that processes sensory input from the skin, muscles, and joints. This area detects and interprets information on touch, temperature, pain, and pressure and allows us to perceive the size, shape, and texture of an object via touch.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/Primary somatosensory cortex.png"
+		}
+	}

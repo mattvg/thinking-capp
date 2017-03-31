@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Gastrocnemius",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The chief muscle of the calf of the leg, which flexes the knee and foot. It runs to the Achilles tendon from two heads attached to the femur.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/muscles/gastrocnemius.png"
+		}
+	}

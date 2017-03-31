@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Calyces",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A cup-shaped organ or cavity, e.g., one of the recesses of the pelvis of the kidney which enclose the pyramids.calice´al.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/urinary/Calyces.png"
+		}
+	}

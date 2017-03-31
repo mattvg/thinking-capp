@@ -1,0 +1,17 @@
+{
+		"Biceps": {
+			"en": {
+				"text": "Biceps",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The large muscle in the upper arm that turns the hand to face palm uppermost and flexes the arm and forearm.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/muscles/Biceps.png"
+		}
+	}

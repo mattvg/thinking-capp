@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Sacrum",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "A triangular bone in the lower back formed from fused vertebrae and situated between the two hipbones of the pelvis.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/images/skeletal/Sacrum_Back.png"
+	}
+}

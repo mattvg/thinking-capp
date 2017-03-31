@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Ureters",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The duct by which urine passes from the kidney to the bladder or cloaca.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/urinary/Ureters.png"
+		}
+	}

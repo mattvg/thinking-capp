@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Periperal Nerves",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The portion of the nervous system that is outside the brain and spinal cord. Abbreviated PNS. The nerves in the PNS connect the central nervous system (CNS) to sensory organs, such as the eye and ear, and to other organs of the body, muscles, blood vessels, and glands.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/nervous/Periperal nerves.png"
+		}
+	}
