@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Ovaries",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "A female reproductive organ in which ova or eggs are produced, present in humans and other vertebrates as a pair.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/reproductive/Ovaries.png"
+	}
+}
