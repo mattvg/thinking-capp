@@ -1,6 +1,7 @@
 import React from 'react'
 import { connect } from 'react-redux'
 
+import Loading from './Loading'
 import BackArrow from './BackArrow'
 import StudyComplete from './StudyComplete'
 import StudySlide from './StudySlide'
@@ -12,7 +13,8 @@ class Study extends React.Component {
 		var olessons = this.props.lessons.toJS()
 		var loaded_name = oactivity.loaded_name
 		var loaded = oactivity.loaded
-		if (loaded == undefined) {
+		var elements = loaded.elements
+		if (loaded == undefined || elements == undefined) {
 			return <Loading />
 		}
 		if (loaded.name == "error") {
@@ -22,7 +24,6 @@ class Study extends React.Component {
 				</div>
 			)
 		}
-		var elements = loaded.elements
 		if (study_num >= elements.length) {
 			return <StudyComplete />
 		}

@@ -77,7 +77,8 @@ export default function ActivityReducer(state = defaultState, action) {
 				axios
 				  .get(src)
 				  .then(function(result) {
-				  	var lesson = result["data"]
+				  	var data = result["data"]
+				  	var lesson = JSON.parse(data)
 					dispatch({type: "LOAD_LESSON_SUCCESS", payload: {lesson, name}})
 				})
 				.catch((err) => {

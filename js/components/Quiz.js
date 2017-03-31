@@ -15,13 +15,17 @@ class Quiz extends React.Component {
 
 	render() {
 		var oactivity = this.props.activity.toJS()
+		console.log(oactivity)
 		var question_num = oactivity.question_num
 		var olessons = this.props.lessons.toJS()
 		var loaded_name = oactivity.loaded_name
 		var loaded = oactivity.loaded
 		var quiz = loaded.quiz
+		if (quiz == undefined) {
+			return <Loading />
+		}
 		var questions = quiz.questions
-		if (loaded == undefined) {
+		if (loaded == undefined || question == undefined) {
 			return <Loading />
 		}
 		if (loaded.name == "error") {
