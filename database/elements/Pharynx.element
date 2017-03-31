@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Pharynx",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The membrane-lined cavity behind the nose and mouth, connecting them to the esophagus.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/respiratory/Pharynx.png"
+	}
+}
