@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Cervix",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The narrow necklike passage forming the lower end of the uterus.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/reproductive/Cervix.png"
+	}
+}
