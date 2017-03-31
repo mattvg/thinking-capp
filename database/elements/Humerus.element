@@ -1,17 +1,17 @@
 {
-		"name": {
-			"en": {
-				"text": "Humerus",
-				"audio": "/audio/digestive/gall-blader-title.mp3"
-			}
-		},
-		"desc": {
-			"en": {
-				"text": "The bone of the upper arm or forelimb, forming joints at the shoulder and the elbow.",
-				"audio": "/audio/digestive/gall-blader-desc.mp3"
-			}
-		},
-		"img": {
-			"file": "/images/skeletal/humerus.png"
+  "name": {
+		"en": {
+			"text": "Humerus",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
 		}
+	},
+	"desc": {
+		"en": {
+			"text": "The bone of the upper arm or forelimb, forming joints at the shoulder and the elbow.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+			"file": "/images/skeletal/humerus.png"
 	}
+}
