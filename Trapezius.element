@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Trapezius",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "Either of a pair of large triangular muscles extending over the back of the neck and shoulders and moving the head and shoulder blade.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/muscles/trapezius.png"
+		}
+	}
