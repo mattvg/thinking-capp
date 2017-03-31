@@ -1,0 +1,18 @@
+
+{
+	"name": {
+		"en": {
+			"text": "Prostate Gland",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "A gland surrounding the neck of the bladder in male mammals and releasing prostatic fluid.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "reproductive/Prostate gland.png"
+	}
+}
