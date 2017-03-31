@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Pectoralis Major",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The pectoralis major muscle is a large muscle in the upper chest, fanning across the chest from the shoulder to the breastbone. The two pectoralis major muscles, commonly referred to as the "pecs," are the muscles that create the bulk of the chest.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/muscles/Pectoralis Major.png"
+		}
+	}

@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Central Sulcus",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "Is a sulcus, or fold, in the cerebral cortex in the brains of vertebrates. Also called the central fissure, it was originally called the fissure of Rolando or the Rolandic fissure, after Luigi Rolando. It is sometimes confused with the medial longitudinal fissure.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/nervous/central sulcus.png"
+		}
+	}

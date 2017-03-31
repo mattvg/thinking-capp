@@ -7,7 +7,7 @@
 		},
 		"desc": {
 			"en": {
-			"text": "Phalanges: The bones of the fingers and of the toes. There are generally three phalanges (distal, middle, proximal) for each digit except the thumbs and large toes. The singular of phalanges is phalanx.",
+				"text": "A bone of the finger or toe.",
 				"audio": "/audio/digestive/gall-blader-desc.mp3"
 			}
 		},
@@ -15,4 +15,3 @@
 			"file": "/images/phalanges (hand).png"
 		}
 	}
-}

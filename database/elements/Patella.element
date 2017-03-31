@@ -1,17 +1,18 @@
+
 {
 	"name": {
 		"en": {
-			"text": "Gallblader",
+			"text": "Patella",
 			"audio": "/audio/digestive/gall-blader-title.mp3"
 		}
 	},
 	"desc": {
 		"en": {
-			"text": "This produced bile.",
+			"text": "The kneecap.",
 			"audio": "/audio/digestive/gall-blader-desc.mp3"
 		}
 	},
 	"img": {
-		"file": "/images/digestive/Gallbladder.png"
+		"file": "/images/skeletal/Patella.png"
 	}
 }

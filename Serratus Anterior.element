@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Serratus Anterior",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A thin muscular sheet of the thorax that arises from the first eight or nine ribs and from the intercostal muscles between them, is inserted into the ventral side of the medial margin of the scapula, and acts to stabilize the scapula by holding it against the chest wall and to rotate it in raising the arm.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/muscles/serratus anterior.png"
+		}
+	}

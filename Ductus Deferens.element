@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Ductus Deferens",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The secretory duct of the testicle, extending from the epididymis, of which it is the continuation, to its merging with the excretory duct of the seminal gland to form the ejaculatory duct.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/reproductive/Ductus deferens.png"
+	}
+}
