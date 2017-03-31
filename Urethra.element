@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Urethra",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The duct by which urine is conveyed out of the body from the bladder, and which in male vertebrates also conveys semen.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/images/urinary/Urethra.png"
+		}
+	}
