@@ -1,0 +1,18 @@
+
+{
+	"name": {
+		"en": {
+			"text": "Clavicle",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "A bone of the pectoral arch.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/skeletal/Clavicle_Back.png"
+	}
+}
