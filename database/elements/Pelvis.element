@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Pelvis",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The large bony structure near the base of the spine to which the hind limbs or legs are attached in humans and many other vertebrates.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/skeletal/pelvis.png"
+		}
+	}
