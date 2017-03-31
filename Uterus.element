@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Uterus",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The organ in the lower body of a woman or female mammal where offspring are conceived and in which they gestate before birth; the womb.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/reproductive/Uterus.png"
+	}
+}
