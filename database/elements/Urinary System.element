@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "The Urinary System",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The Urinary System.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/urinary/Urinary_System.png"
+		}
+	}
