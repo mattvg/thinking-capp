@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Scrotum",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "A pouch of skin containing the testicles.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/reproductive/Scrotum.png"
+	}
+}
