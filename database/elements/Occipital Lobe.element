@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Occipital Lobe",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The rearmost lobe in each cerebral hemisphere of the brain.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/nervous/Occipital Lobe.png"
+		}
+	}

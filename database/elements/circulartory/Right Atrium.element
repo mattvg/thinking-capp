@@ -1,0 +1,17 @@
+{
+	"Right Atrium": {
+		"en": {
+			"text": "Right Atrium",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The right atrium is one of the four chambers of the heart. The heart is comprised of two atria and two ventricles.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/circulartory/Right%20Atrium.png"
+	}
+}
