@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "carpals",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The carpal bones are the eight small bones that make up the wrist (or carpus) that connects the hand to the forearm." ,
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/images/skeletal/carples.png"
+	}
+}
