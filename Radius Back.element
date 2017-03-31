@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Radius",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The thicker and shorter of the two bones in the human forearm.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/images/skeletal/Radius_Back.png"
+	}
+}
