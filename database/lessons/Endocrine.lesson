@@ -1,0 +1,83 @@
+{
+	"title": {
+		"en": {
+			"text": "The Endocrine System",
+			"audio": ""
+		}
+	},
+	"elements": [
+		"stomach"
+	],
+	"nonelements": [
+		"oral cavity"
+	],
+	"quiz": {
+		"questions": [
+			{
+				"question": {
+					"en": {
+						"text": "Which organ controlls body temperature, thirst and hunger?"
+						"audio": ""
+					}
+				},
+				"answers": [
+					{"element": "Hypothalmus", "correct": "1"},
+					{"element": "Gallbladder", "correct": "0"}
+				]
+			},
+			{
+				"question": {
+					"en": {
+						"text": "The uterus stores the--?",
+						"audio": ""
+					}
+				},
+				"answers": [
+					{"element": "Ovaries", "correct": "0"},
+					{"element": "Testes", "correct": "1"}
+				]
+			},
+			{
+				"question": {
+					"en": {
+						"text": "This organ helps filter the blood of metabolic wastes, which are then excreted as urine.",
+						"audio": ""
+					}
+				},
+				"answers": [
+					{"element": "Kidney", "correct": "1"},
+					{"element": "Thyroids", "correct": "0"}
+				]
+			},
+			
+			{
+				"question": {
+					"en": {
+						"text": "Which organs are part of the endocrine system?",
+						"audio": ""
+					}
+				},
+				"answers": [
+					{"element": "Pancreas", "correct": "1"},
+					{"element": "", "Rectus Femoris": "0"},
+          {"element": "Testes", "correct": "1"},
+					{"element": "Stomach", "correct": "0"}
+				]
+			},
+			{
+				"question": {
+					"en": {
+						"text": "Which organs are part of the female endocrine system?",
+						"audio": ""
+					}
+				},
+				"answers": [
+					{"element": "", "Spleen": "0"},
+					{"element": "Ovaries", "correct": "1"},
+          {"element": "Bone Marrow", "correct": "0"},
+          {"element": "Uterus", "correct": "1"}
+				]
+			}
+		]
+	}
+}
