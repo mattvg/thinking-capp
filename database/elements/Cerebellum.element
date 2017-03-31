@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Cerebellum",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The part of the brain at the back of the skull in vertebrates. Its function is to coordinate and regulate muscular activity.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/nervous/Cerebellum.png"
+		}
+	}
