@@ -65,3 +65,6 @@ store.dispatch({type: "ADD_LESSON", payload: lesson })
 var lesson = { name: "circulartory", src: "https://raw.githubusercontent.com/kylepolich/thinking-capp/dev/database/lessons/circulartory.lesson"}
 store.dispatch({type: "ADD_LESSON", payload: lesson })
 
+var lesson = { name: "Endocrine", src: "https://raw.githubusercontent.com/kylepolich/thinking-capp/dev/database/lessons/Endocrine.lesson"}
+store.dispatch({type: "ADD_LESSON", payload: lesson })
+

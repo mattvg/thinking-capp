@@ -25,7 +25,7 @@ class Quiz extends React.Component {
 			return <Loading />
 		}
 		var questions = quiz.questions
-		if (loaded == undefined || question == undefined) {
+		if (loaded == undefined || questions == undefined) {
 			return <Loading />
 		}
 		if (loaded.name == "error") {
