@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Metacarpals",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "Any of the five bones of the hand.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/skeletal/Metacarpals_Back.png"
+	}
+}
