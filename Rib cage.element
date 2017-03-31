@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Rib Cage",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The bony frame formed by the ribs around the chest.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/skeletal/rib cage.png"
+		}
+	}

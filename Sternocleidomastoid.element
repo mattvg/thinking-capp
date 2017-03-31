@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Sternocleidomastoid",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "Each of a pair of long muscles that connect the sternum, clavicle, and mastoid process of the temporal bone and serve to turn and nod the head.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/muscles/sternocleidomastoid.png"
+		}
+	}

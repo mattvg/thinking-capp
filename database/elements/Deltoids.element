@@ -1,0 +1,17 @@
+{
+		"Deltoids": {
+			"en": {
+				"text": "Deltoids",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "Each of the three parts of a deltoid muscle, attached at the front, side, and rear of the shoulder.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/digestive/gall-blader.jpg"
+		}
+	}

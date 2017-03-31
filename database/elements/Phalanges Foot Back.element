@@ -1,17 +1,18 @@
 {
 	"name": {
 		"en": {
-			"text": "Gallblader",
+			"text": "Phalanges",
 			"audio": "/audio/digestive/gall-blader-title.mp3"
 		}
 	},
 	"desc": {
 		"en": {
-			"text": "This produced bile.",
+			"text": "Anatomically, any one of the bones in the fingers or toes.",
 			"audio": "/audio/digestive/gall-blader-desc.mp3"
 		}
 	},
 	"img": {
-		"file": "/images/digestive/Gallbladder.png"
+		"file": "/images/skeletal/Phalanges Foot_Back.png
+"
 	}
 }

@@ -1,0 +1,18 @@
+
+{
+	"name": {
+		"en": {
+			"text": "Carpal Bones",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The carpal bones are the eight small bones that make up the wrist (or carpus) that connects the hand to the forearm. This term derives its meaning from the Latin carpus and the Greek καρπός (karpós), both meaning "wrist.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/skeletal/Carples_Back.png"
+	}
+}

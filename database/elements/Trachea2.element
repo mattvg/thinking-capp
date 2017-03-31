@@ -1,0 +1,18 @@
+
+{
+	"name": {
+		"en": {
+			"text": "Trachea",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "A large membranous tube reinforced by rings of cartilage, extending from the larynx to the bronchial tubes and conveying air to and from the lungs; the windpipe.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/respiratory/Trachea2.png"
+	}
+}

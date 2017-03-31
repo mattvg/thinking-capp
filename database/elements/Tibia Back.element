@@ -1,0 +1,17 @@
+{
+	"name": {
+		"en": {
+			"text": "Tibia",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The inner and typically larger of the two bones between the knee and the ankle (or the equivalent joints in other terrestrial vertebrates), parallel with the fibula.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/skeletal/Tibula_Back.png"
+	}
+}

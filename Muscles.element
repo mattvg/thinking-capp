@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Muscles",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "A band or bundle of fibrous tissue in a human or animal body that has the ability to contract, producing movement in or maintaining the position of parts of the body.",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/muscles/Muscles.png"
+		}
+	}

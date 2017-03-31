@@ -1,0 +1,17 @@
+{
+		"name": {
+			"en": {
+				"text": "Medulla",
+				"audio": "/audio/digestive/gall-blader-title.mp3"
+			}
+		},
+		"desc": {
+			"en": {
+				"text": "The inner region of an organ or tissue, especially when it is distinguishable from the outer region or cortex (as in a kidney, an adrenal gland, or hair).",
+				"audio": "/audio/digestive/gall-blader-desc.mp3"
+			}
+		},
+		"img": {
+			"file": "/images/urinary/Medulla.png"
+		}
+	}
