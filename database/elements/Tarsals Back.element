@@ -1,0 +1,17 @@
+
+	"name": {
+		"en": {
+			"text": "gall blader",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
+		}
+	},
+	"desc": {
+		"en": {
+			"text": "The seven bones of the instep: talus, calcaneus, navicular, three cuneiform (wedge), and cuboid bones.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/skeletal/Tarsals_Back.png"
+	}
+}
